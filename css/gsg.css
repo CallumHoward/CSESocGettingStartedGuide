@@ -2,6 +2,31 @@
     max-width: 90.0rem;
 }
 
+.emoji {
+    display: inline;
+    max-height: 3.0rem;
+}
+
+#info-emoji {
+    max-height: 1.3rem;
+}
+
+#shrug-emoji {
+    max-height: 1.3rem;
+}
+
+#waving-emoji {
+    max-height: 1.3rem;
+}
+
+#small-screenshot {
+    max-width: 38%;
+}
+
+h2 {
+    margin-top: 80px;
+}
+
 img {
     max-width: 70%;
     display: block;
